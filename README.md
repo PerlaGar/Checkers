@@ -1,0 +1,2 @@
+# Checkers
+Software design project 
